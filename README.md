@@ -7,7 +7,9 @@
 
 ### ⚡ About Me
 
-I am a BSc (Hons) in Information Technology, specializing in Software Engineering, with a strong passion for software development. I enjoy building efficient, scalable applications and continuously expanding my skills across modern technologies.
+I am a BSc (Hons) in Information Technology undergraduate, specializing in Software Engineering, with a strong interest in software development and real-world system building. I am currently pursuing an internship opportunity at ANC Education as an IT Intern, where I aim to apply my technical knowledge in a practical environment.
+
+I enjoy developing efficient and scalable applications while continuously improving my skills in modern technologies such as web development, software engineering principles, and database systems. I am highly motivated to learn, adapt, and contribute effectively to team-based projects in a professional setting.
 
 ---
 
